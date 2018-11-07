@@ -38,3 +38,22 @@ def criarDicionario(listaDescriptografada):
         login, senha, nivelAcesso = linha.split(",")
         dicionarioUsers[login] = (senha, nivelAcesso)
     return dicionarioUsers
+
+"""
+@modificarArquivo()
+"""
+def modificarArquivo(dicionarioUsers):
+    #estocando os dados do arquivo
+    originalFile = open("usuariosDescriptografados.txt","r")
+    dataFileLines1 = originalFile.readlines()
+    originalFile.close()
+    #mudando os dados do arquivo
+    newFile = open("usuariosDescriptografados.txt","w")
+    linhaProcurada = "insira a linha aqui"
+    linhaSubstita = "insira a nova linha aqui"
+    for line in dataFileLines1:
+        if line != linhaProcurada:
+            newFile.write(line)
+        else:
+            newFile.write(linhaSubstita)
+    newFile.close()
