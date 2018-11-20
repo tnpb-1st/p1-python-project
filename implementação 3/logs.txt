@@ -1,0 +1,26 @@
+adm; usou a função usuarioRemovido() |20/11/2018! 2018-11-20 09:52:16
+adm; saiu do sistema  |20/11/2018! 2018-11-20 09:52:18
+adm; usou a função cadastrarUsuario() |20/11/2018! 2018-11-20 09:53:03
+adm; saiu do sistema  |20/11/2018! 2018-11-20 09:53:05
+adm; saiu do sistema  |20/11/2018! 2018-11-20 09:53:59
+adm; saiu do sistema  |20/11/2018! 2018-11-20 09:54:33
+adm; usou a função cadastrarUsuario() |20/11/2018! 2018-11-20 09:55:38
+adm; saiu do sistema  |20/11/2018! 2018-11-20 09:55:39
+adm; usou a função usuarioRemovido() |20/11/2018! 2018-11-20 09:56:18
+adm; usou a função usuarioRemovido() |20/11/2018! 2018-11-20 09:56:28
+adm; saiu do sistema  |20/11/2018! 2018-11-20 09:56:29
+adm; saiu do sistema  |20/11/2018! 2018-11-20 14:02:27
+adm; usou a função cadastrarCliente() |20/11/2018! 2018-11-20 14:03:39
+adm; usou a função buscarCliente() |20/11/2018! 2018-11-20 14:03:57
+adm; usou a função alterarDadosCliente() |20/11/2018! 2018-11-20 14:04:34
+adm; usou a função buscarCliente() |20/11/2018! 2018-11-20 14:04:43
+adm; usou a função alterarDadosCliente() |20/11/2018! 2018-11-20 14:05:08
+adm; usou a função removerCliente() |20/11/2018! 2018-11-20 14:05:19
+adm; usou a função buscarCliente() |20/11/2018! 2018-11-20 14:05:27
+adm; usou a função buscarLogUsuario() |20/11/2018! 2018-11-20 14:05:45
+adm; usou a função buscarLogUsuario() |20/11/2018! 2018-11-20 14:05:56
+adm; saiu do sistema  |20/11/2018! 2018-11-20 14:06:25
+adm; usou a função buscarLogUsuario() |20/11/2018! 2018-11-20 14:18:45
+adm; usou a função buscarLogUsuario() |20/11/2018! 2018-11-20 14:18:55
+adm; usou a função buscarLogUsuario() |20/11/2018! 2018-11-20 14:19:16
+adm; saiu do sistema  |20/11/2018! 2018-11-20 14:19:33
