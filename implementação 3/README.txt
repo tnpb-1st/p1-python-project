@@ -3,7 +3,7 @@ ATENÇÃO: NÃO É POSSÍVEL EXCLUIR OU ADICIONAR O ADM DO ARQUIVO USUARIOS.TXT,
 
 funções do projeto|meu programa
 Você precisará construir um sistema que tenha as seguintes funcionalidades gerais:
-1- Login/Logout (para entregar, o usuário precisa se identificar) | login(),criptografarArquivo() e descriptografarArquivo()
+1- Login/Logout (para entregar, o usuário precisa se identificar) | login(),criptografarArquivo() e descriptografarArquivo() (CRUD)
 
 2- Cadastro e remoção de usuário | cadastrarUsuario(), 	removerUsuario(), alterarNivelUsuario()
 
