@@ -1,6 +1,6 @@
 ## :scroll:Summary ##
 
-This was a project made by me for the end of my first programming class done in Python 3.
+This was a project made by me as a CIS freshman for the end of my first programming class done in Python 3.
 The goal of the project was to put in practice everything we learned, from basic programming logic
 to writing, editing and reading informations in files.
 <br></br>
